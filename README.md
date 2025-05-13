@@ -57,7 +57,7 @@ To simulate a real-world business scenario by transforming raw sales data into m
 
 ## 🖼️ Dashboard Preview
 
-![Power BI Dashboard](whole%20visual.png)
+![Power BI Dashboard](https://github.com/RISHABBARIK1/Data-Analysis-Dashboard/commit/639b11b168f772a2c35130f76fe91501e4695caf)
 
 This dashboard provides interactive insights into:
 
@@ -76,5 +76,5 @@ This project reflects the end-to-end development of a Power BI dashboard for bus
 
 ---
 
-> 🔗 *Certificate: [Tata Forage Virtual Experience](https://theforage.com/)*  
+> 🔗 *Certificate: [Tata Forage Virtual Experience](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_EMc3TSto6tLiQMo3W_1747066386925_completion_certificate.pdf)*  
 > 🧾 *Project Duration: ~5 hours | Issued: May 2025*

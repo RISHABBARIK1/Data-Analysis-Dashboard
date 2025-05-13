@@ -61,5 +61,5 @@ This project reflects the end-to-end development of a Power BI dashboard for bus
 
 ---
 
-> 🔗 *Certificate: [Tata Forage Virtual Experience](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_EMc3TSto6tLiQMo3W_1747066386925_completion_certificate.pdf)*  
+> 🔗 *Certificate: [Tata Forage Virtual Experience](https://theforage.com/)*  
 > 🧾 *Project Duration: ~5 hours | Issued: May 2025*

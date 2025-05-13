@@ -18,7 +18,7 @@ To simulate a real-world business scenario by transforming raw sales data into m
 3. **Data Cleaning & Transformation (ETL)**  
    - Removed nulls, duplicates, and invalid transactions (e.g., negative quantities or prices).
    - Applied Power Query to transform raw data into structured formats.
-   - Added calculated columns (e.g., `Revenue = Quantity × Unit Price`).
+   - Added calculated columns (`Revenue = Quantity × Unit Price`).
 
 4. **Data Modeling**  
    - Established relationships and hierarchies.
@@ -76,5 +76,5 @@ This project reflects the end-to-end development of a Power BI dashboard for bus
 
 ---
 
-> 🔗 *Certificate: [Tata Forage Virtual Experience](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/MyXvBcppsW2FkNYCX_ifobHAoMjQs9s6bKS_EMc3TSto6tLiQMo3W_1747066386925_completion_certificate.pdf)*  
+> 🔗 *Certificate: [Tata Forage Virtual Experience](https://www.theforage.com/achievements)*  
 > 🧾 *Project Duration: ~5 hours | Issued: May 2025*

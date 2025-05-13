@@ -55,6 +55,21 @@ To simulate a real-world business scenario by transforming raw sales data into m
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![Power BI Dashboard](whole%20visual.png)
+
+This dashboard provides interactive insights into:
+
+- Monthly revenue trends  
+- Top-performing countries by revenue and quantity  
+- Geographic distribution of sales  
+- Comparison of revenue vs. quantity by country
+
+It empowers leadership to spot key performance trends, market opportunities, and customer behavior at a glance.
+
+---
+
 ## ✅ Conclusion
 
 This project reflects the end-to-end development of a Power BI dashboard for business leadership. From ETL to data modeling and visualization, I turned raw data into clear, actionable insights that directly support executive decision-making and performance tracking.
